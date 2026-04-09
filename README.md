@@ -1,4 +1,7 @@
 ## 📊 Sales Data Analysis Dashboard (Excel)
+## 📊 Dashboard Preview
+![Dashboard](Dashboard.jpg)
+
 
 ### 🔹 Project Overview  
 This project analyzes retail sales data using Excel to identify trends, category performance, and regional distribution. A dashboard is created to present insights clearly.
